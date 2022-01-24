@@ -2,7 +2,7 @@
 
 My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, golfing, and spending time with family. You can find my projects on my website at https://andrewfava.com/.
 
-- 📫 How to reach me: AndrewFava@yahoo.com
+- 📫 How to reach me: AndrewFava@yahoo.com or on LinkedIn https://www.linkedin.com/in/andrewfava/
 - 🔭 I’m currently working on becoming the best version of myself
 - 🌱 I’m currently learning Data Structures & Algorithms
 
