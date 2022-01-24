@@ -2,8 +2,7 @@
 
 My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, golfing, and spending time with family. You can find my projects on my website at https://andrewfava.com/.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcodes12)](https://github.com/andrewcodes12/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcodes12&layout=compact)](https://github.com/andrewcodes12/github-readme-stats)
 [![Andrews GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewCodes12&count_private=true&show_icons=true)](https://github.com/andrewcodes12/github-readme-stats)
 
 <!--
