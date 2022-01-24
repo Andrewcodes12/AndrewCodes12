@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, golfing, and spending time with family. You can find my projects on my website at andrewfava.com.
+My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, golfing, and spending time with family. You can find my projects on my website at https://andrewfava.com/.
 
 [![Andrews GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewCodes12&count_private=true&show_icons=true)](https://github.com/andrewcodes12/github-readme-stats)
 
