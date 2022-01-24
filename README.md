@@ -6,12 +6,7 @@ My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart fr
 [![Andrews GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewCodes12&count_private=true&show_icons=true)](https://github.com/andrewcodes12/github-readme-stats)
 
 
-<a href="https://github.com/andrewcodes12/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewcodes12&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/andrewcodes12/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewcodes12&repo=convoychat" />
-</a>
+
 <!--
 **Andrewcodes12/AndrewCodes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
