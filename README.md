@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrew Fava and im a Software Developer. I'm from Miami,FL. Apart from coding, my hobbies include working out, boxing, and spending time with family. You can find my projects on my website at andrewfava.com.
+My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, and spending time with family. You can find my projects on my website at andrewfava.com.
 
 
 <!--
