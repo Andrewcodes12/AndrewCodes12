@@ -2,6 +2,7 @@
 
 My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart from coding, my hobbies include working out, boxing, and spending time with family. You can find my projects on my website at andrewfava.com.
 
+[![Andrews GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewCodes12)](https://github.com/andrewcodes12/github-readme-stats)
 
 <!--
 **Andrewcodes12/AndrewCodes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
