@@ -4,7 +4,7 @@ My name is Andrew Fava and im a Software Developer located in Miami,FL. Apart fr
 
 - 📫 How to reach me: AndrewFava@yahoo.com || LinkedIn https://www.linkedin.com/in/andrewfava/
 - 🔭 I’m currently working on becoming the best version of myself.
-- 🌱 I’m currently an Instructional Assistant at App Academy teaching Data structures & Algorithms.
+- 🌱 I’m currently an Instructional Assistant at App Academy teaching Data Structures & Algorithms.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcodes12&layout=compact)](https://github.com/andrewcodes12/github-readme-stats)
 [![Andrews GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewCodes12&count_private=true&show_icons=true)](https://github.com/andrewcodes12/github-readme-stats)
